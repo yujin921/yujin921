@@ -4,5 +4,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20%to%20Yujin's%20Git✨&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin921&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujin921&show_icons=true&theme=radical)      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
